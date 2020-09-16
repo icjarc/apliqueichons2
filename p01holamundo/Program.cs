@@ -6,7 +6,8 @@ namespace p01holamundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("ya casi jala");
+           Console.WriteLine("otras 2 horas");
         }
     }
 }
