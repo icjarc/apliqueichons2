@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.exe
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.dll
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\bin\Debug\netcoreapp3.1\p08vectorpromedio.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.dll
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p08vectorpromedio\obj\Debug\netcoreapp3.1\p08vectorpromedio.genruntimeconfig.cache
