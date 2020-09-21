@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\bin\Debug\netcoreapp3.1\p07tablas.exe
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\bin\Debug\netcoreapp3.1\p07tablas.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\bin\Debug\netcoreapp3.1\p07tablas.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\bin\Debug\netcoreapp3.1\p07tablas.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\bin\Debug\netcoreapp3.1\p07tablas.dll
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\bin\Debug\netcoreapp3.1\p07tablas.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.dll
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p07tablas\obj\Debug\netcoreapp3.1\p07tablas.genruntimeconfig.cache
