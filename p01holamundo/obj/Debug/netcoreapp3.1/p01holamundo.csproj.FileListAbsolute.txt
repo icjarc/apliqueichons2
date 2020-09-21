@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\bin\Debug\netcoreapp3.1\p01holamundo.exe
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\bin\Debug\netcoreapp3.1\p01holamundo.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\bin\Debug\netcoreapp3.1\p01holamundo.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\bin\Debug\netcoreapp3.1\p01holamundo.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\bin\Debug\netcoreapp3.1\p01holamundo.dll
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\bin\Debug\netcoreapp3.1\p01holamundo.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.dll
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p01holamundo\obj\Debug\netcoreapp3.1\p01holamundo.genruntimeconfig.cache
