@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\bin\Debug\netcoreapp3.1\p03areatriangulo.exe
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\bin\Debug\netcoreapp3.1\p03areatriangulo.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\bin\Debug\netcoreapp3.1\p03areatriangulo.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\bin\Debug\netcoreapp3.1\p03areatriangulo.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\bin\Debug\netcoreapp3.1\p03areatriangulo.dll
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\bin\Debug\netcoreapp3.1\p03areatriangulo.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.dll
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p03areatriangulo\obj\Debug\netcoreapp3.1\p03areatriangulo.genruntimeconfig.cache
