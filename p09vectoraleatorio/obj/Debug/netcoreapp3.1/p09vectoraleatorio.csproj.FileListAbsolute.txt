@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\bin\Debug\netcoreapp3.1\p09vectoraleatorio.exe
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\bin\Debug\netcoreapp3.1\p09vectoraleatorio.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\bin\Debug\netcoreapp3.1\p09vectoraleatorio.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\bin\Debug\netcoreapp3.1\p09vectoraleatorio.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\bin\Debug\netcoreapp3.1\p09vectoraleatorio.dll
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\bin\Debug\netcoreapp3.1\p09vectoraleatorio.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.dll
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p09vectoraleatorio\obj\Debug\netcoreapp3.1\p09vectoraleatorio.genruntimeconfig.cache
