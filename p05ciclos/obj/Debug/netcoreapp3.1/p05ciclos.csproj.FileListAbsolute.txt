@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.exe
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.dll
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\bin\Debug\netcoreapp3.1\p05ciclos.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.dll
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p05ciclos\obj\Debug\netcoreapp3.1\p05ciclos.genruntimeconfig.cache
