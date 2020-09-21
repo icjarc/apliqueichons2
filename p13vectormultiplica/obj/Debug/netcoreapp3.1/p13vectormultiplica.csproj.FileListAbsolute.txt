@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\bin\Debug\netcoreapp3.1\p13vectormultiplica.exe
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\bin\Debug\netcoreapp3.1\p13vectormultiplica.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\bin\Debug\netcoreapp3.1\p13vectormultiplica.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\bin\Debug\netcoreapp3.1\p13vectormultiplica.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\bin\Debug\netcoreapp3.1\p13vectormultiplica.dll
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\bin\Debug\netcoreapp3.1\p13vectormultiplica.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\obj\Debug\netcoreapp3.1\p13vectormultiplica.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\obj\Debug\netcoreapp3.1\p13vectormultiplica.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\obj\Debug\netcoreapp3.1\p13vectormultiplica.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\obj\Debug\netcoreapp3.1\p13vectormultiplica.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\obj\Debug\netcoreapp3.1\p13vectormultiplica.dll
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\obj\Debug\netcoreapp3.1\p13vectormultiplica.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p13vectormultiplica\obj\Debug\netcoreapp3.1\p13vectormultiplica.genruntimeconfig.cache
