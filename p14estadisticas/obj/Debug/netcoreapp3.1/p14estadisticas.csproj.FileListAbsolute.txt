@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\bin\Debug\netcoreapp3.1\p14estadisticas.exe
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\bin\Debug\netcoreapp3.1\p14estadisticas.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\bin\Debug\netcoreapp3.1\p14estadisticas.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\bin\Debug\netcoreapp3.1\p14estadisticas.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\bin\Debug\netcoreapp3.1\p14estadisticas.dll
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\bin\Debug\netcoreapp3.1\p14estadisticas.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\obj\Debug\netcoreapp3.1\p14estadisticas.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\obj\Debug\netcoreapp3.1\p14estadisticas.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\obj\Debug\netcoreapp3.1\p14estadisticas.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\obj\Debug\netcoreapp3.1\p14estadisticas.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\obj\Debug\netcoreapp3.1\p14estadisticas.dll
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\obj\Debug\netcoreapp3.1\p14estadisticas.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p14estadisticas\obj\Debug\netcoreapp3.1\p14estadisticas.genruntimeconfig.cache
