@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\bin\Debug\netcoreapp3.1\p10vectorcubo.exe
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\bin\Debug\netcoreapp3.1\p10vectorcubo.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\bin\Debug\netcoreapp3.1\p10vectorcubo.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\bin\Debug\netcoreapp3.1\p10vectorcubo.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\bin\Debug\netcoreapp3.1\p10vectorcubo.dll
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\bin\Debug\netcoreapp3.1\p10vectorcubo.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.dll
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p10vectorcubo\obj\Debug\netcoreapp3.1\p10vectorcubo.genruntimeconfig.cache
