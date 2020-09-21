@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.exe
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.dll
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\bin\Debug\netcoreapp3.1\p11vectorsumas.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.dll
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p11vectorsumas\obj\Debug\netcoreapp3.1\p11vectorsumas.genruntimeconfig.cache
