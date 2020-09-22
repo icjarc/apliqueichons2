@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\bin\Debug\netcoreapp3.1\p15cuentabancariav1.exe
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\bin\Debug\netcoreapp3.1\p15cuentabancariav1.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\bin\Debug\netcoreapp3.1\p15cuentabancariav1.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\bin\Debug\netcoreapp3.1\p15cuentabancariav1.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\bin\Debug\netcoreapp3.1\p15cuentabancariav1.dll
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\bin\Debug\netcoreapp3.1\p15cuentabancariav1.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\obj\Debug\netcoreapp3.1\p15cuentabancariav1.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\obj\Debug\netcoreapp3.1\p15cuentabancariav1.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\obj\Debug\netcoreapp3.1\p15cuentabancariav1.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\obj\Debug\netcoreapp3.1\p15cuentabancariav1.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\obj\Debug\netcoreapp3.1\p15cuentabancariav1.dll
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\obj\Debug\netcoreapp3.1\p15cuentabancariav1.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p15cuentabancariav1\obj\Debug\netcoreapp3.1\p15cuentabancariav1.genruntimeconfig.cache
