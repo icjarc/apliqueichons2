@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\bin\Debug\netcoreapp3.1\p21linq2.exe
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\bin\Debug\netcoreapp3.1\p21linq2.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\bin\Debug\netcoreapp3.1\p21linq2.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\bin\Debug\netcoreapp3.1\p21linq2.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\bin\Debug\netcoreapp3.1\p21linq2.dll
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\bin\Debug\netcoreapp3.1\p21linq2.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\obj\Debug\netcoreapp3.1\p21linq2.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\obj\Debug\netcoreapp3.1\p21linq2.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\obj\Debug\netcoreapp3.1\p21linq2.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\obj\Debug\netcoreapp3.1\p21linq2.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\obj\Debug\netcoreapp3.1\p21linq2.dll
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\obj\Debug\netcoreapp3.1\p21linq2.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p21linq2\obj\Debug\netcoreapp3.1\p21linq2.genruntimeconfig.cache
