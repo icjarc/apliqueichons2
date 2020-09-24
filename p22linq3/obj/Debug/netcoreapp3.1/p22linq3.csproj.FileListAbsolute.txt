@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\obj\Debug\netcoreapp3.1\p22linq3.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\obj\Debug\netcoreapp3.1\p22linq3.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\obj\Debug\netcoreapp3.1\p22linq3.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\obj\Debug\netcoreapp3.1\p22linq3.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\bin\Debug\netcoreapp3.1\p22linq3.exe
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\bin\Debug\netcoreapp3.1\p22linq3.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\bin\Debug\netcoreapp3.1\p22linq3.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\bin\Debug\netcoreapp3.1\p22linq3.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\bin\Debug\netcoreapp3.1\p22linq3.dll
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\bin\Debug\netcoreapp3.1\p22linq3.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\obj\Debug\netcoreapp3.1\p22linq3.dll
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\obj\Debug\netcoreapp3.1\p22linq3.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p22linq3\obj\Debug\netcoreapp3.1\p22linq3.genruntimeconfig.cache
