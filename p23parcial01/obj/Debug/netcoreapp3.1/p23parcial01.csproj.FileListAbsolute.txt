@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\bin\Debug\netcoreapp3.1\p23parcial01.exe
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\bin\Debug\netcoreapp3.1\p23parcial01.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\bin\Debug\netcoreapp3.1\p23parcial01.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\bin\Debug\netcoreapp3.1\p23parcial01.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\bin\Debug\netcoreapp3.1\p23parcial01.dll
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\bin\Debug\netcoreapp3.1\p23parcial01.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\obj\Debug\netcoreapp3.1\p23parcial01.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\obj\Debug\netcoreapp3.1\p23parcial01.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\obj\Debug\netcoreapp3.1\p23parcial01.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\obj\Debug\netcoreapp3.1\p23parcial01.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\obj\Debug\netcoreapp3.1\p23parcial01.dll
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\obj\Debug\netcoreapp3.1\p23parcial01.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p23parcial01\obj\Debug\netcoreapp3.1\p23parcial01.genruntimeconfig.cache

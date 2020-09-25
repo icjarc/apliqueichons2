@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "p23parcial01/1.0.0": {
+        "runtime": {
+          "p23parcial01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p23parcial01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
