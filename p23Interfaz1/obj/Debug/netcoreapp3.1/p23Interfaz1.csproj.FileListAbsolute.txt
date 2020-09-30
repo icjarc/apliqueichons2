@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.exe
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.dll
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\bin\Debug\netcoreapp3.1\p23Interfaz1.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.dll
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p23Interfaz1\obj\Debug\netcoreapp3.1\p23Interfaz1.genruntimeconfig.cache
