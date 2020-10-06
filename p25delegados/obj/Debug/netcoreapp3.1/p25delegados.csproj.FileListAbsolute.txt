@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\bin\Debug\netcoreapp3.1\p25delegados.exe
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\bin\Debug\netcoreapp3.1\p25delegados.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\bin\Debug\netcoreapp3.1\p25delegados.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\bin\Debug\netcoreapp3.1\p25delegados.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\bin\Debug\netcoreapp3.1\p25delegados.dll
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\bin\Debug\netcoreapp3.1\p25delegados.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\obj\Debug\netcoreapp3.1\p25delegados.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\obj\Debug\netcoreapp3.1\p25delegados.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\obj\Debug\netcoreapp3.1\p25delegados.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\obj\Debug\netcoreapp3.1\p25delegados.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\obj\Debug\netcoreapp3.1\p25delegados.dll
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\obj\Debug\netcoreapp3.1\p25delegados.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p25delegados\obj\Debug\netcoreapp3.1\p25delegados.genruntimeconfig.cache
