@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\bin\Debug\netcoreapp3.1\p28delegados4.exe
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\bin\Debug\netcoreapp3.1\p28delegados4.deps.json
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\bin\Debug\netcoreapp3.1\p28delegados4.runtimeconfig.json
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\bin\Debug\netcoreapp3.1\p28delegados4.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\bin\Debug\netcoreapp3.1\p28delegados4.dll
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\bin\Debug\netcoreapp3.1\p28delegados4.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\obj\Debug\netcoreapp3.1\p28delegados4.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\obj\Debug\netcoreapp3.1\p28delegados4.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\obj\Debug\netcoreapp3.1\p28delegados4.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\obj\Debug\netcoreapp3.1\p28delegados4.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\obj\Debug\netcoreapp3.1\p28delegados4.dll
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\obj\Debug\netcoreapp3.1\p28delegados4.pdb
+C:\Users\Arturo\Desktop\apliqueichons\p28delegados4\obj\Debug\netcoreapp3.1\p28delegados4.genruntimeconfig.cache
